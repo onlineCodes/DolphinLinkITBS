@@ -1,6 +1,6 @@
 ## just give it a try
 
-just changed the dotnet version I have installed.
+changed the dotnet version I have installed.
 ''dotnet --version''
   10.0.301
 
