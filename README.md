@@ -1,3 +1,13 @@
+## just give it a try
+
+just changed the dotnet version I have installed.
+''dotnet --version''
+  10.0.301
+
+''dotnet run --project src/DolphinLink.Web''
+
+
+
 # DolphinLink
 
 [![CI](https://github.com/blaze6950/DolphinLink/actions/workflows/ci.yml/badge.svg)](https://github.com/blaze6950/DolphinLink/actions/workflows/ci.yml)
